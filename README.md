@@ -31,3 +31,6 @@ Contributing
 ============
 
 Check out the [contributing guidelines](https://pyfar.readthedocs.io/en/stable/contributing.html) if you want to become part of pyfar.
+
+Extra highlight
+============
